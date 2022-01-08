@@ -1,3 +1,7 @@
+# 
+# Author: Martin Kronbichler
+#
+
 
 #ifndef conjugate_gradient_hpp
 #define conjugate_gradient_hpp
