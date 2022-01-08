@@ -1,3 +1,6 @@
+# 
+# Author: Niklas Wik 
+#
 
 #ifndef sparse_matrix_scs_hpp
 #define sparse_matrix_scs_hpp
