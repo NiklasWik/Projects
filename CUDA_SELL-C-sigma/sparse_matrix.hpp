@@ -1,3 +1,6 @@
+# 
+# Author: Martin Kronbichler, Niklas Wik 
+#
 
 #ifndef sparse_matrix_hpp
 #define sparse_matrix_hpp
