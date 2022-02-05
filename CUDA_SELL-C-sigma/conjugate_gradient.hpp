@@ -1,6 +1,6 @@
-# 
-# Author: Martin Kronbichler
-#
+// 
+// Author: Martin Kronbichler
+//
 
 
 #ifndef conjugate_gradient_hpp

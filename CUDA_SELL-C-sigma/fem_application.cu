@@ -1,6 +1,6 @@
-# 
-# Author: Martin Kronbichler, Niklas Wik 
-#
+// 
+// Author: Martin Kronbichler, Niklas Wik 
+//
 
 #include <chrono>
 #include <cmath>

@@ -1,7 +1,6 @@
-# 
-# Author: Martin Kronbichler, Niklas Wik 
-#
-
+// 
+// Author: Martin Kronbichler, Niklas Wik 
+// 
 #ifndef vector_hpp
 #define vector_hpp
 
